@@ -1,6 +1,4 @@
-## COMING SOON...
-
-For now, please check the [KygekTeam organization](https://github.com/KygekTeam).
+Welcome to the official GitHub org of The Kygek Foundation! Please check out [our website](https://foundation.kygek.team) first to learn about our organization if you haven't already.
 
 ---
 
