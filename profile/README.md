@@ -2,5 +2,5 @@ Welcome to the official GitHub org of The Kygek Foundation! Please check out [ou
 
 ---
 
-Founder & Leader of KygekTeam,\
+Founder & Leader of The Kygek Foundation,\
 **KygekDev**
