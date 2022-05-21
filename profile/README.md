@@ -1,4 +1,6 @@
-Welcome to the official GitHub org of The Kygek Foundation! Please check out [our website](https://foundation.kygek.team) first to learn about our organization if you haven't already.
+**Welcome to the official GitHub organization of The Kygek Foundation!**
+
+Please check out [our website](https://foundation.kygek.team) first to learn about our organization if you haven't already.
 
 ---
 
